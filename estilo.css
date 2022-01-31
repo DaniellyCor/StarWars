@@ -1,0 +1,52 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-decoration: lightcoral;
+    text-align: center;
+    border: 2px solid violet;
+    color: blueviolet;
+    padding: 3px 10px;
+    display: block;
+    cursor: pointer;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing:  1px;
+    text-transform: initial;
+    text-align: center;
+    border: 2px solid rgba(0,0,200,0.4);
+    background: rgba(0,0,200,0.3);
+    color: rgba(0,0,200,0.6);
+    border-radius: 10px;
+    padding: 3px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+link {
+    display: none;
+}
+
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
